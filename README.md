@@ -8,8 +8,8 @@ In this project, we delve into the fascinating field of detecting offensive and 
 The objective of this project is to highlight Distilbert's potential in combating the growing wave of offensive and hate speech on the internet. By harnessing the power of natural language processing and machine learning, we can build systems capable of identifying and neutralizing harmful content, thereby preserving a safer and healthier online environment.
 
 ### Hate Speech Recognition using the following files:
-* https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-dataset
-* https://www.kaggle.com/datasets/grupomei30/hate-speech-and-offensive-language-dataset2
+* hate-speech-and-offensive-language-dataset
+* hate-speech-and-offensive-language-dataset2
 
 #### In total there are 27k comments from various platforms, belonging to one of the follow classes:
 * neither
@@ -20,3 +20,11 @@ The objective of this project is to highlight Distilbert's potential in combatin
 * DistilBert-base-uncased
 
 ##### **Note**: The model used in this notebook was retrieved by the Hugging Face platform. For more info about the model: https://huggingface.co/distilbert-base-uncased
+
+#### Files can be found here: 
+* hate-speech-and-offensive-language-dataset: https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-dataset
+* hate-speech-and-offensive-language-dataset2: https://www.kaggle.com/datasets/grupomei30/hate-speech-and-offensive-language-dataset2
+
+#### Environment: https://www.kaggle.com/
+
+#### Disclouser: Some of the paths to the saved models and/or datasets may be wrong depending on the environment
